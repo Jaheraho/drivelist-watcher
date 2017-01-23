@@ -1,0 +1,31 @@
+{
+  "name": "drivelist-watcher",
+  "version": "0.1.0",
+  "description": "drivelist-watcher\r =================",
+  "main": "lib/drivelist-watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaheraho (jaheraho@posteo.de)",
+  "license": "MIT",
+  "dependencies": {
+    "drivelist": "^5.0.6",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "drivelist",
+    "drivelist-watcher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaheraho/drivelist-watcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaheraho/drivelist-watcher/issues"
+  },
+  "homepage": "https://github.com/Jaheraho/drivelist-watcher#readme",
+  "directories": {
+    "test": "tests"
+  }
+}
