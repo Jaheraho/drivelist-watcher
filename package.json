@@ -1,7 +1,7 @@
 {
   "name": "drivelist-watcher",
-  "version": "0.1.0",
-  "description": "drivelist-watcher\r =================",
+  "version": "0.1.1",
+  "description": "drivelist-watcher",
   "main": "lib/drivelist-watcher.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

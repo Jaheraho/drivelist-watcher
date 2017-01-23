@@ -1,13 +1,13 @@
 drivelist-watcher
 =================
 
-drivelist-watcher sets callback-function that fires when a device is added or removed.
+setting callbacks that fires when a device is added or removed
 
 Installation
 ------------
 
 ```sh
-$ npm install --save drivelist-watcher
+$ npm i --save drivelist-watcher
 ```
 
 Examples
